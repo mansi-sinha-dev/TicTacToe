@@ -1,1 +1,1 @@
-README file
+Created a Tic-Tac-Toe Application using HTML, CSS, Javascript
